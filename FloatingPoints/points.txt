@@ -1,0 +1,8 @@
+#X Y Path
+#c=circle, l=linear, p=polynomial, C=COLOR, S = SIZE
+10 20 c 20 45 0.05 C 255 0 0 s 25
+20 20 
+30 30 C 255 0 0 s 10
+40 40
+20 45 C 255 120 120 s 5
+10 20 C 0 255 0 s 5
